@@ -1,0 +1,10 @@
+{"at": "2026-11-15T10:31:02", "agent": "orchestrator", "step": "brief", "seconds": 5.8, "note": "target market: Israeli university students"}
+{"at": "2026-11-15T10:32:39", "agent": "research", "step": "research", "seconds": 96.4, "note": "4 competitors, 11 sources, 3 retries after 429"}
+{"at": "2026-11-15T10:32:51", "agent": "product", "step": "spec", "seconds": 11.2, "note": "TutorNow, 5 features, 3 must"}
+{"at": "2026-11-15T10:33:15", "agent": "developer", "step": "build v1", "seconds": 23.9, "note": "8912 chars"}
+{"at": "2026-11-15T10:33:24", "agent": "qa", "step": "review v1", "seconds": 8.7, "note": "passed=False score=6 issues=2"}
+{"at": "2026-11-15T10:33:47", "agent": "developer", "step": "build v2", "seconds": 22.6, "note": "8907 chars"}
+{"at": "2026-11-15T10:33:56", "agent": "qa", "step": "review v2", "seconds": 8.1, "note": "passed=False score=6 issues=2"}
+{"at": "2026-11-15T10:34:20", "agent": "developer", "step": "build v3", "seconds": 23.4, "note": "8915 chars"}
+{"at": "2026-11-15T10:34:29", "agent": "qa", "step": "review v3", "seconds": 8.4, "note": "passed=False score=6 issues=2"}
+{"at": "2026-11-15T10:34:35", "agent": "orchestrator", "step": "ship", "seconds": 5.2, "note": "shipped_with_issues=True"}

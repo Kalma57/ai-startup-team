@@ -1,0 +1,5 @@
+google-genai>=1.65
+pydantic>=2.10
+python-dotenv>=1.0
+# Session 2 (optional, only if you choose CrewAI)
+crewai[google-genai]>=1.15

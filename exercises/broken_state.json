@@ -1,0 +1,68 @@
+{
+  "idea": "A platform that connects students with private tutors",
+  "research": {
+    "target_customers": [
+      "University students preparing for exams",
+      "High-school students preparing for matriculation exams (bagrut)"
+    ],
+    "pain_points": [
+      "Finding an available tutor the same week takes days of messaging",
+      "Prices are unclear until after the first call",
+      "Needs an app with AI matching",
+      "No way to know if a tutor is good before paying"
+    ],
+    "competitors": [
+      {
+        "name": "Superprof",
+        "positioning": "Global marketplace of private tutors, profiles with hourly rates",
+        "weakness": "Hard to filter by course or exam date"
+      },
+      {
+        "name": "Company A",
+        "positioning": "Tutoring app for students",
+        "weakness": "Not very good"
+      }
+    ],
+    "market_signals": [
+      "The Israeli private tutoring market is worth exactly $2.4B and grows 18% a year",
+      "Exam periods create demand spikes in January-February and June-July"
+    ],
+    "sources": [
+      {
+        "title": "superprof.co.il",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AbF9wXE1"
+      },
+      {
+        "title": "TutorMatch Israel - About us",
+        "url": "https://www.tutormatch-israel.co.il/about"
+      }
+    ]
+  },
+  "product_spec": {
+    "product_name": "TutorNow",
+    "one_liner": "Book a vetted tutor for this week's exam in two minutes",
+    "personas": [
+      {
+        "name": "Noa, 2nd-year economics student",
+        "main_pain": "Finding an available tutor the same week takes days of messaging",
+        "quote": "My exam is on Sunday and nobody answers before Thursday."
+      },
+      {
+        "name": "Omer, 11th grade",
+        "main_pain": "Parents decide and pay, so he cannot choose the tutor he likes",
+        "quote": "My mom picks the tutor, not me."
+      }
+    ],
+    "mvp_features": [
+      {"name": "Availability search", "priority": "must", "solves_pain": "Finding an available tutor the same week takes days of messaging"},
+      {"name": "Upfront price", "priority": "must", "solves_pain": "Prices are unclear until after the first call"},
+      {"name": "Verified reviews", "priority": "must", "solves_pain": "No way to know if a tutor is good before paying"},
+      {"name": "AI resume builder", "priority": "must", "solves_pain": "Students hate writing CVs"},
+      {"name": "Group sessions", "priority": "later", "solves_pain": "Prices are unclear until after the first call"}
+    ],
+    "assumptions": [],
+    "acceptance_criteria": [
+      "A student finds and books an available tutor in under 2 minutes"
+    ]
+  }
+}

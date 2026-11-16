@@ -1,0 +1,23 @@
+[
+  {
+    "round": 1, "passed": false, "score": 6,
+    "issues": [
+      {"severity": "major", "problem": "Must-have feature 'Verified reviews' is not on the page", "fix": "Add a features section item titled 'Verified reviews'"},
+      {"severity": "minor", "problem": "CTA only in the hero", "fix": "Repeat the CTA button at the bottom of the page"}
+    ]
+  },
+  {
+    "round": 2, "passed": false, "score": 6,
+    "issues": [
+      {"severity": "major", "problem": "Must-have feature 'Verified reviews' is not on the page", "fix": "Add a features section item titled 'Verified reviews'"},
+      {"severity": "minor", "problem": "CTA only in the hero", "fix": "Repeat the CTA button at the bottom of the page"}
+    ]
+  },
+  {
+    "round": 3, "passed": false, "score": 6,
+    "issues": [
+      {"severity": "major", "problem": "Must-have feature 'Verified reviews' is not on the page", "fix": "Add a features section item titled 'Verified reviews'"},
+      {"severity": "minor", "problem": "CTA only in the hero", "fix": "Repeat the CTA button at the bottom of the page"}
+    ]
+  }
+]

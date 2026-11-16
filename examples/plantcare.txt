@@ -1,0 +1,5 @@
+PlantCare is an iPhone app, in Hebrew first, that tells you each morning which plants need water and what to do when one looks sick.
+Adding a plant takes just a name or a photo. The AI recommends a care plan, and the user can accept it, set their own schedule, or set one rule for everything.
+Photo ID and diagnosis use AI, while reminders and plant info work offline, so the app is simple enough for forgetful, low-tech users.
+Running costs are low, about $99/year for Apple plus a small server and a few dollars a month in AI calls.
+We start as a free private app for one user, learn from real use, then open it to more people with a freemium model.
